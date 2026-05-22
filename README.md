@@ -1,10 +1,10 @@
-# 👨‍💼 Employee Management System
+# Employee Management System
 
 A complete **Employee Management System** developed using **Oracle SQL** and **PL/SQL** to manage employee records, department management, salary processing, audit logging, and performance optimization.
 
 ---
 
-# 🚀 Technologies Used
+# Technologies Used
 
 - Oracle SQL
 - PL/SQL
@@ -20,9 +20,9 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-## 🔹 Employee Management
+## Employee Management
 
 - Add and manage employee records
 - Department-wise employee management
@@ -31,7 +31,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-## 🔹 Salary Management
+## Salary Management
 
 - Annual salary calculation
 - Bulk salary increment by department
@@ -39,7 +39,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-## 🔹 Advanced PL/SQL Features
+## Advanced PL/SQL Features
 
 - PL/SQL Packages for modular programming
 - Stored Procedures and Functions
@@ -50,7 +50,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-## 🔹 Database Validations
+## Database Validations
 
 - Duplicate employee ID prevention
 - Foreign key validation for departments
@@ -58,7 +58,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-## 🔹 Performance Optimization
+## Performance Optimization
 
 - Indexed columns for faster query execution
 - Optimized SQL queries
@@ -66,7 +66,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-## 🔹 Audit & Monitoring
+## Audit & Monitoring
 
 - Automatic audit trail for employee operations
 - Tracks INSERT, UPDATE, and DELETE operations
@@ -74,9 +74,9 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-# 📂 Database Objects
+# Database Objects
 
-## 🗄️ Tables
+## Tables
 
 - Departments
 - Employees
@@ -84,7 +84,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-## ⚙️ PL/SQL Objects
+## PL/SQL Objects
 
 - Procedures
 - Functions
@@ -95,7 +95,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-# 🔧 Modules Included
+# Modules Included
 
 | Module | Description |
 |--------|-------------|
@@ -109,7 +109,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-# 📈 Advanced Features
+# Advanced Features
 
 - Automatic audit logging using triggers
 - Bulk salary update using `BULK COLLECT` and `FORALL`
@@ -121,7 +121,7 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-# 💡 Learning Outcomes
+# Learning Outcomes
 
 - Real-world PL/SQL project development
 - Database design and relationship management
@@ -133,9 +133,9 @@ A complete **Employee Management System** developed using **Oracle SQL** and **P
 
 ---
 
-# ▶️ Sample Operations
+# Sample Operations
 
-## 👨‍💼 Add Employee
+## Add Employee
 
 ```sql
 BEGIN
