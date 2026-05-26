@@ -235,16 +235,3 @@ END;
 ---------view two main table
 SELECT * FROM employees;
 SELECT * FROM employee_audit;
-
-
---Resume Description (ATS Friendly)
---Project: Employee Management System
---
---Technology: Oracle SQL, PL/SQL
---
---Developed an Employee Management System using Oracle SQL and PL/SQL.
---Implemented Stored Procedures, Functions, Packages, Triggers, and Cursors for business logic automation.
---Designed relational database tables with constraints and indexing for optimized performance.
---Used BULK COLLECT and FORALL for bulk data processing and performance tuning.
---Implemented Exception Handling and Audit Logging mechanisms.
---Optimized SQL queries and improved transaction handling efficiency.
